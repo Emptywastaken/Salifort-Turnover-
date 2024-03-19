@@ -13,7 +13,7 @@
 - Insight derived based on built models and EDA results.
 - Determined a set of key features that are influential to employee turnover.
 - Created a set of visualizations to better explain model performance and key features
-  
+- Created executive summary 
 
 
 
