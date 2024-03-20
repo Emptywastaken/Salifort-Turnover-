@@ -1,6 +1,7 @@
 # Saliprot Turnover capstone project for Google Advanced Data Analytics specialization
-
-
+Project Overview
+Business Understanding 
+Data Understanding 
 ## Step performed:
 - Exploratory data analysis
 - Building & tuning machine learning model (decision tree, random forest, XGBoost)
@@ -14,6 +15,10 @@
 - Determined a set of key features that are influential to employee turnover.
 - Created a set of visualizations to better explain model performance and key features
 - Created executive summary 
+
+Conclusion
+In the conclusion section explain the recommendations you have in solving the business problem and highlight any future steps you will take to expand on your project, 
+
 
 
 
