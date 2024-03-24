@@ -7,10 +7,9 @@ This project aims to determine key factors that affect employee turnover and bui
 The company invests in recruiting and training for each employee. A high turnover rate is causing extra expenses, thus it is important to determine underlying reasons for employees leaving.
 
 ## Data Understanding 
-Saiip
-. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. 
+The data consisted of approximately 12k unique(there were duplicated entries) employee evaluations and 10 features. The features included employee satisfaction, efficiency evaluation, amount of hours per month, tenure, number of concurrent projects, department, and salary range. 16.7% of employees in the dataset left the company.
 
-## Step performed:
+## Steps performed:
 - Exploratory data analysis
 - Building & tuning machine learning model (decision tree, random forest, XGBoost)
 - Cross-validation
@@ -24,8 +23,6 @@ Saiip
 - Created a set of visualizations to explain model performance and key features better
 - Created executive summary 
 
-Conclusion
-In the conclusion section explain the recommendations you have for solving the business problem and highlight any future steps you will take to expand on your project, 
 
 
 
