@@ -1,7 +1,7 @@
 # Saliprot Employee retention capstone project for Google Advanced Data Analytics specialization
 
 ## Project Overview
-This project aims to determine key factors that affect employee turnover and build a model that predicts whether an employee will leave the company. This project utilized yellow taxi trips taken in New York City during 2017. The final random forest model was performed with 98.6% accuracy and 99.1% precision determining the most important features in identifying employees who will likely leave. 
+This project aims to determine key factors that affect employee turnover and build a model that predicts whether an employee will leave the company. The final random forest model was performed with 98.6% accuracy and 99.1% precision determining the most important features in identifying employees who are likely to leave. 
 
 ## Business Understanding 
 The company invests in recruiting and training for each employee. A high turnover rate is causing extra expenses, thus it is important to determine underlying reasons for employees leaving.
