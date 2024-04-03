@@ -1,4 +1,4 @@
-# Saliprot Employee retention 
+# Salifort Employee retention 
 
 ## Project Overview
 This project aims to determine key factors that affect employee turnover and build a model that predicts whether an employee will leave the company. The final random forest model was performed with 98.6% accuracy and 99.1% precision determining the most important features in identifying employees who are likely to leave. 
